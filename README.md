@@ -1,3 +1,7 @@
+## The Device:
+
+<img src="./images/device.jpg" width="500">
+
 ## CAD design:
 
 Designed with ONSHAPE: [external link](https://cad.onshape.com/documents/10bc479726efd397e1b6da2f/w/0b0132ffe39dfe43be7fad69/e/8997c8a6fc3ccb14e4730629)
